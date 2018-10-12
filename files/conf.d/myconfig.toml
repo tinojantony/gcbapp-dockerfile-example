@@ -1,0 +1,7 @@
+[template]
+src = "myconfig.conf.tmpl"
+dest = "/tmp/myconfig.conf"
+keys = [
+    "DB_PORT",
+    "DB_URL",
+]
